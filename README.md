@@ -8,7 +8,11 @@
 
 [![Issues][issues-shield]][issues-url]
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/feed/]
+
+![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+
 
 
 
