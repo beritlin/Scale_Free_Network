@@ -1,20 +1,14 @@
-
-
-[![Contributors][contributors-shield]][contributors-url]
-
-[![Forks][forks-shield]][forks-url]
-
-[![Stargazers][stars-shield]][stars-url]
-
-[![Issues][issues-shield]][issues-url]
-
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/feed/]
-
-![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-
-
-
+<p align="center">
+    <a>
+    <img alt="date" src="https://img.shields.io/packagist/stars/:beritlin/Scale_Free_Network?style=for-the-badge" target="_blank" />
+  </a>
+  <a>
+    <img alt="date" src="https://img.shields.io/github/last-commit/beritlin/Scale_Free_Network?style=for-the-badge" target="_blank" />
+  </a>
+  <a>
+    <img alt="status" src="https://img.shields.io/bitbucket/issues-raw/:beritlin/:Scale_Free_Network?style=for-the-badge" target="_blank" />
+  </a>
+</p>
 
 <p align='center'>
   <a href="https://github.com/beritlin/Scale_Free_Network">
@@ -39,7 +33,35 @@
 
 
 
+### Sacle-Free network
 
+
+
+
+
+### Requirement 
+
+```R
+library(igraph)
+library(dplyr)
+library(ggplot2)
+```
+
+
+
+#### paw
+
+
+
+#### cluster
+
+
+
+#### betweeness
+
+
+
+#### g
 
 
 
